@@ -11,7 +11,7 @@ const positionList = Object.values(players)
 const obstacleList = generateObstacle()
 let currentWinner = 0
 
-
+//kjnfgkjnfkgndfkjgjkn
 main()
 
 function main () {
