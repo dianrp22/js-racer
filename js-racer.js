@@ -10,6 +10,7 @@ const obstacleList = generateObstacle();
 let currentWinner = 0;
 //s1
 //s2
+//s3
 
 main();
 
