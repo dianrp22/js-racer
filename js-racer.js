@@ -10,7 +10,7 @@ const playerNameList = Object.keys(players)
 const positionList = Object.values(players)
 const obstacleList = generateObstacle()
 let currentWinner = 0
-
+//s1
 
 main()
 
